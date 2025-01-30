@@ -1,6 +1,10 @@
 import { FC } from 'react'
 
 const App: FC = () => {
+  useEffect(() => {
+    document.title = "BHS Code Club Hackathon";
+  }, []);
+  
   return (
     <div className="min-h-screen bg-gray-100">
       <nav className="bg-blue-600 p-4">
