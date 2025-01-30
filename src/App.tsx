@@ -9,7 +9,7 @@ const App: FC = () => {
       
       <main className="container mx-auto px-4 py-8">
         <div className="bg-white rounded-lg shadow-md p-6 max-w-2xl mx-auto">
-          <h2 className="text-3xl font-bold mb-4">Join Us on March 8/9/15/16!</h2>
+          <h2 className="text-3xl font-bold mb-4">Join Us on March 8!</h2>
           
           <section className="mb-8">
             <h3 className="text-xl font-semibold mb-3">What is a Hackathon?</h3>
