@@ -35,7 +35,7 @@ const App: FC = () => {
             </div>
           </section>
           <section>
-            <p className="text-gray-700 mb4">Questions? Email codebhs@gmail.com</p>
+            <p className="text-gray-700 space-y-3">Questions? Email codebhs@gmail.com</p>
           </section>
         </div>
       </main>
