@@ -34,6 +34,9 @@ const App: FC = () => {
               <p>• Meet other students who love coding</p>
             </div>
           </section>
+          <section>
+            <p className="text-gray-700 mb4">Questions? Email codebhs@gmail.com</p>
+          </section>
         </div>
       </main>
     </div>
