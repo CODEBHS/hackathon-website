@@ -21,7 +21,7 @@ const App: FC = () => {
               A hackathon is a fun coding event where people come together to turn their creative 
               ideas into real projects! Whether you're just starting to code or you're an experienced 
               programmer, this is your chance to collaborate with fellow students and build something awesome 
-              in just 6 hours. 
+              in just 4 hours. 
             </p>
           </section>
 
@@ -35,9 +35,10 @@ const App: FC = () => {
             </div>
           </section>
           <section>
+            <h5 className="text-xl font-semibold mb-3">Questions?</h5>
             <div className="text-gray-700 space-y-3">
-              <p>Questions? Email codebhs@gmail.com</p>
-              </div>
+              <p>Email codebhs@gmail.com</p>
+            </div>
           </section>
         </div>
       </main>
